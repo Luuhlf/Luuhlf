@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
    
  <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=Luuhlf&label=Profile%20views&color=blueviolet&style=flat&label=Visitantes:" alt="JilMayumiMoutinho" />
+ <img src="https://komarev.com/ghpvc/?username=Luuhlf&label=Profile%20views&color=blueviolet&style=flat&label=Visitantes:" alt="Luuhlf" />
 </p>
  
 </div>
