@@ -37,14 +37,10 @@
   <img align="center" height="180em" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luuhlf&theme=dark&layout=compact" /> 
 </div>
 
-<!---
-Luuhlf/Luuhlf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
    
  <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=Luuhlf&label=Profile%20views&color=blueviolet&style=flat&label=Visitantes:" alt="Luuhlf" />
 </p>
  
-</div>
+
+
