@@ -27,6 +27,8 @@ Sigo estudando e me atualizando para aprender cada vez mais</p>
 <a href="https://www.linkedin.com/in/Luuhlf/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="max-width: 100%;"></a>
 <a href="https://github.com/Luuhlf"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"  style="max-width: 100%;"></a>
 <a href="mailto:luisf.sil@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" style="max-width: 100%;"></a>
+<a href="https://wa.me/+5511996408380?text=Ol%C3%A1!%20Sou%20o%20Luis%20Fernando%20em%20que%20posso%20ajudar?
+"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" alt="Whatsapp" style="max-width: 100%;"></a>
 
 </p>
 
