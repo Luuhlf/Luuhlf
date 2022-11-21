@@ -6,7 +6,15 @@
   <body>
     <header align="center">
       <h1 align="center";>Olá, Bem Vindo(a) ao meu perfil.</h1>
-      <p align="center";>Eu me chamo Luis Fernando e sou Desevolvedor Full Stack.</p> 
+      <p>Formado em engenharia civil, atuei no setor de planejamento, custos e medição de diversos tipos de obras infraestrutura públicas e privadas e em obras prediais / residenciais.
+
+Me encontro em transição de carreira para área de programação/tecnologia, sou uma pessoa comunicativa, analítica, prático e objetivo.
+
+Formado em Desenvolvedor Web Full Stack pelo Bootcamp da Labenu, onde desenvolvi diversos projetos individuais e em grupo, que simulam a rotina de um desenvolvedor.
+
+Entre as habilidades aprendidas durante o curso estão HTML, CSS, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Git, Github, Firebase, Python, Testes unitários e UI Design, guiadas por metodologias ágeis (Kanban/Scrum/Trello).
+
+Sigo estudando e me atualizando para aprender cada vez mais</p> 
     </header>
   </body>
   
