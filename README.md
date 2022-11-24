@@ -14,7 +14,7 @@ Formado em Desenvolvedor Web Full Stack pelo Bootcamp da Labenu, onde desenvolvi
 
 Entre as habilidades aprendidas durante o curso estão HTML, CSS, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Git, Github, Firebase, Python, Testes unitários e UI Design, guiadas por metodologias ágeis (Kanban/Scrum/Trello).
 
-Sigo estudando e me atualizando para aprender cada vez mais</p> 
+Sigo estudando e me atualizando para aprender cada vez mais.</p> 
     </header>
   </body>
   
