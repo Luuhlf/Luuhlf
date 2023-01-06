@@ -8,7 +8,7 @@
       <h1 align="center";>Olá, Bem Vindo(a) ao meu perfil.</h1>
       <p>Formado em engenharia civil, atuei no setor de planejamento, custos e medição de diversos tipos de obras infraestrutura públicas e privadas e em obras prediais / residenciais.
 
-Me encontro em transição de carreira para área de programação/tecnologia, sou uma pessoa comunicativa, analítica, prático e objetivo.
+Me encontro em transição de carreira para área de programação/tecnologia, sou uma pessoa comunicativa, analítica, prático e objetivo. 
 
 Formado em Desenvolvedor Web Full Stack pelo Bootcamp da Labenu, onde desenvolvi diversos projetos individuais e em grupo, que simulam a rotina de um desenvolvedor.
 
