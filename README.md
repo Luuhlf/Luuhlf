@@ -47,5 +47,7 @@ Sigo estudando e me atualizando para aprender cada vez mais.</p>
  <img src="https://komarev.com/ghpvc/?username=Luuhlf&label=Profile%20views&color=blueviolet&style=flat&label=Visitantes:" alt="Luuhlf" />
 </p>
  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
