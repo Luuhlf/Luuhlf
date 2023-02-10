@@ -40,14 +40,19 @@ Sigo estudando e me atualizando para aprender cada vez mais.</p>
 <div/>
 
 ---
-  
+<div align="center">
+  <a href="https://github.com/Luuhlf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luuhlf&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luuhlf&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
    
- <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=Luuhlf&label=Profile%20views&color=blueviolet&style=flat&label=Visitantes:" alt="Luuhlf" />
-</p>
+
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
+ <p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=Luuhlf&label=Profile%20views&color=blueviolet&style=flat&label=Visitantes:" alt="Luuhlf" />
+</p>
