@@ -8,13 +8,15 @@
       <h1 align="center";>Olá, Bem Vindo(a) ao meu perfil.</h1>
       <p>Formado em engenharia civil, atuei no setor de planejamento, custos e medição de diversos tipos de obras infraestrutura públicas e privadas e em obras prediais / residenciais.
 
-Me encontro em transição de carreira para área de programação/tecnologia, sou uma pessoa comunicativa, analítica, prático e objetivo. 
+Me encontro em transição de carreira para área de tecnologia, sou uma pessoa comunicativa, analítica, prática e objetiva. Procuro sempre entregar o meu melhor, buscando sempre o aprendizado e o desenvolvimento pessoal e profissional.
 
-Formado em Desenvolvedor Web Full Stack pelo Bootcamp da Labenu, onde desenvolvi diversos projetos individuais e em grupo, que simulam a rotina de um desenvolvedor.
+Formado em Desenvolvedor Web Full Stack pelo Bootcamp da Labenu, onde desenvolvi diversos projetos individuais e em grupo, que simulam a rotina de um desenvolvedor guiadas por metodologias ágeis.
 
-Entre as habilidades aprendidas durante o curso estão HTML, CSS, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Git, Github, Firebase, Python, Testes unitários e UI Design, guiadas por metodologias ágeis (Kanban/Scrum/Trello).
+Entre as habilidades aprendidas no Bootcamp estão: HTML, CSS, JavaScript, Python, React, Styled-Components, Api Restful, Node.JS, Knex, TypeScript, AWS, SQL, Git, .
 
-Sigo estudando e me atualizando para aprender cada vez mais.</p> 
+Com os conhecimentos em programação adquiridos no bootcamp, comecei a estudar e me apaixonar por analise de dados me aprofundando em SQL, extração e gerenciamento de dados (ETL), Power BI, Python, webscraping e automações. Bibliotecas: pandas, numpy, pyplot, matplotlib, yfinance, fundamentus, selenium, quandl, pyautogui, pyperclip, tensflor.
+
+Sigo estudando e me atualizando para aprender cada vez mais e me aprimorar neste novo ramo..</p> 
     </header>
   </body>
   
@@ -53,6 +55,6 @@ Sigo estudando e me atualizando para aprender cada vez mais.</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
- <p align="left"> 
+ <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Luuhlf&label=Profile%20views&color=blueviolet&style=flat&label=Visitantes:" alt="Luuhlf" />
 </p>
