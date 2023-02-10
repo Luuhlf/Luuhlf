@@ -5,7 +5,7 @@
   </head>
   <body>
     <header align="center">
-      <h1 align="center";>Olá, Bem Vindo(a) ao meu perfil.</h1>
+      <h1 align="center";>Olá, Bem vindo(a) ao meu perfil.</h1>
       <p>Formado em engenharia civil, atuei no setor de planejamento, custos e medição de diversos tipos de obras infraestrutura públicas e privadas e em obras prediais / residenciais.
 
 Me encontro em transição de carreira para área de tecnologia, sou uma pessoa comunicativa, analítica, prática e objetiva. Procuro sempre entregar o meu melhor, buscando sempre o aprendizado e o desenvolvimento pessoal e profissional.
@@ -27,10 +27,9 @@ Sigo estudando e me atualizando para aprender cada vez mais e me aprimorar neste
 
 <p align="center" data-sourcepos="14:1-18:124" dir="auto">
 <a href="https://www.linkedin.com/in/Luuhlf/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="max-width: 100%;"></a>
-<a href="https://github.com/Luuhlf"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"  style="max-width: 100%;"></a>
-<a href="mailto:luisf.sil@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" style="max-width: 100%;"></a>
 <a href="https://wa.me/+5511996408380?text=Ol%C3%A1!%20Sou%20o%20Luis%20Fernando%20em%20que%20posso%20ajudar?
 "><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" alt="Whatsapp" style="max-width: 100%;"></a>
+<a href="mailto:luisf.sil@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" style="max-width: 100%;"></a>
 
 </p>
 
